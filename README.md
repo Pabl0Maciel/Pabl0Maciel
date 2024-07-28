@@ -1,18 +1,21 @@
 # Olá, meu nome é Pablo!
 
-<p align="left">
-  Estou cursando Sistemas de Informação na Universidade de São Paulo (USP).
-  <br>
-  No repositório abaixo você encontrará alguns programas básicos e projetos também:
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p align="left">
+      Estou cursando Sistemas de Informação na Universidade de São Paulo (USP).
+      <br>
+      No repositório abaixo você encontrará alguns programas básicos e projetos também:
+    </p>
+    <p align="left">
+      <a href="https://github.com/pabl0maciel/Programas-e-Projetos" title="Repositório GitHub">
+        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
+  </div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="width: 300px; height: auto; margin-left: 20px;">
+</div>
 
-<p align="left">
-  <a href="https://github.com/pabl0maciel/Programas-e-Projetos" title="Repositório GitHub">
-    <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="width: 200px; float: right; margin-left: 20px;">
 
 ## Progresso do Curso
 
