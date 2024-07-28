@@ -10,54 +10,47 @@
   <a href="https://github.com/pabl0maciel/Programas-e-Projetos" title="Repositório GitHub">
     <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
   </a>
-  <a href="https://github.com/pabl0maciel/Programas-e-Projetos/actions" title="Build Status">
-    <img src="https://img.shields.io/github/workflow/status/pabl0maciel/Programas-e-Projetos/CI?style=for-the-badge" alt="Build Status"/>
-  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="width: 200px; float: right; margin-left: 20px;">
 
 ## Progresso do Curso
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>[x] 1° Semestre</li>
-        <li>[ ] 2° Semestre</li>
-        <li>[ ] 3° Semestre</li>
-        <li>[ ] 4° Semestre</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>[ ] 5° Semestre</li>
-        <li>[ ] 6° Semestre</li>
-        <li>[ ] 7° Semestre</li>
-        <li>[ ] 8° Semestre</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; width: 50%;">
+  <div>
+    - ✅ <strong>1° Semestre<strong> (Concluído)
+    <br>
+    - ⬜️ <strong>2° Semestre<strong> (Pendente) 
+    <br>
+    - ⬜️ <strong>3° Semestre<strong> (Pendente)
+    <br>
+    - ⬜️ <strong>4° Semestre<strong> (Pendente)
+  </div>
+  <div>
+    - ⬜️ <strong>5° Semestre<strong> (Pendente)
+    <br>
+    - ⬜️ <strong>6° Semestre<strong> (Pendente)
+    <br>
+    - ⬜️ <strong>7° Semestre<strong> (Pendente)
+    <br>
+    - ⬜️ <strong>8° Semestre<strong> (Pendente)
+  </div>
+</div>
 
 ## Linguagens e Ferramentas
 
-<p align="left">
-  <span style="display: block; margin-bottom: 20px;">
-    🦄 Linguagens:
-    <br>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabl0maciel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="Github Stats"
-    />
-  </span>
-  <span style="display: block;">
-    💼 Ferramentas:
-    <br>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-  </span>
-</p>
+<div style="margin-bottom: 20px;">
+  <h4>🦄 Linguagens:</h4>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabl0maciel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Github Stats"
+  />
+</div>
+
+<div>
+  <h4>💼 Ferramentas:</h4>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
+</div>
 
 ## Contato
 
