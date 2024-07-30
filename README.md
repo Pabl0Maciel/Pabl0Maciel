@@ -12,6 +12,15 @@
         <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
+    <p align="left">
+      Neste você encontrará alguns trabalhos que não envolvem programação diretamente:
+    </p>
+    </p>
+    <p align="left">
+      <a href="https://github.com/pabl0maciel/Trabalhos-Sem-Programacao" title="Repositório GitHub">
+        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+      </a>
+    </p>
   </div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="width: 300px; height: auto; margin-left: 20px;">
 </div>
