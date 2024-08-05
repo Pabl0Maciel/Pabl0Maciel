@@ -13,7 +13,7 @@
       </a>
     </p>
     <p align="left">
-      Neste você encontrará alguns trabalhos que não envolvem programação diretamente:
+      Neste aqui,você encontrará alguns trabalhos que não envolvem programação diretamente:
     </p>
     </p>
     <p align="left">
