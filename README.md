@@ -1,10 +1,24 @@
-# Olá, meu nome é Pablo!
+# Olá 👋, meu nome é Pablo!
 
+Estou cursando Sistemas de Informação na Universidade de São Paulo (USP), atualmente no segundo semestre 📚.
+<img src="Arquivos/coding-2-31.svg" alt="Codando" width="300" height="300" style="float: right; margin-left: 20px;">
+
+## Minhas Habilidades 🧠📊
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+## Repositórios
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p align="left">
-      Estou cursando Sistemas de Informação na Universidade de São Paulo (USP).
-      <br>
       No repositório abaixo você encontrará alguns programas básicos e projetos também:
     </p>
     <p align="left">
@@ -15,37 +29,11 @@
     <p align="left">
       Neste aqui, você encontrará alguns trabalhos que não envolvem programação diretamente:
     </p>
-    </p>
     <p align="left">
       <a href="https://github.com/pabl0maciel/Trabalhos-Sem-Programacao" title="Repositório GitHub">
         <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
       </a>
     </p>
-  </div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="width: 300px; height: auto; margin-left: 20px;">
-</div>
-
-
-## Progresso do Curso
-
-<div style="display: flex; justify-content: space-between; width: 50%;">
-  <div>
-    - ✅ <strong>1° Semestre<strong> (Concluído)
-    <br>
-    - ⬜️ <strong>2° Semestre<strong> (Pendente) 
-    <br>
-    - ⬜️ <strong>3° Semestre<strong> (Pendente)
-    <br>
-    - ⬜️ <strong>4° Semestre<strong> (Pendente)
-  </div>
-  <div>
-    - ⬜️ <strong>5° Semestre<strong> (Pendente)
-    <br>
-    - ⬜️ <strong>6° Semestre<strong> (Pendente)
-    <br>
-    - ⬜️ <strong>7° Semestre<strong> (Pendente)
-    <br>
-    - ⬜️ <strong>8° Semestre<strong> (Pendente)
   </div>
 </div>
 
