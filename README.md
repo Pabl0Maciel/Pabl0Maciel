@@ -1,6 +1,9 @@
 # Olá 👋, meu nome é Pablo!
 
-Estou cursando Sistemas de Informação na Universidade de São Paulo (USP), atualmente no segundo semestre 📚.
+Estou cursando **Sistemas de Informação na Universidade de São Paulo (USP)**, atualmente no **segundo semestre** 📚. 
+
+No momento, estou interessado na área de **Análise e Ciência de Dados** 📊📈. No primeiro repositório, você pode acessar alguns de meus projetos relacionados ao tema, além de conseguir visualizar **certificados** de cursos concluídos como **Python e Power BI** 📚🏆.
+
 <img src="Arquivos/coding-2-31.svg" alt="Codando" width="300" height="300" style="float: right; margin-left: 20px;">
 
 ## Minhas Habilidades 🧠📊
@@ -19,7 +22,7 @@ Estou cursando Sistemas de Informação na Universidade de São Paulo (USP), atu
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p align="left">
-      No repositório abaixo você encontrará alguns programas básicos e projetos também:
+      No repositório abaixo você encontrará Projetos, códigos relacionados a Aulas na faculdade e Aprendizados em Cursos:
     </p>
     <p align="left">
       <a href="https://github.com/pabl0maciel/Programas-e-Projetos" title="Repositório GitHub">
@@ -37,20 +40,11 @@ Estou cursando Sistemas de Informação na Universidade de São Paulo (USP), atu
   </div>
 </div>
 
-## Linguagens e Ferramentas
+## Ferramentas 🛠
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-<div style="margin-bottom: 20px;">
-  <h4>🦄 Linguagens:</h4>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabl0maciel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Github Stats"
-  />
-</div>
-
-<div>
-  <h4>💼 Ferramentas:</h4>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-</div>
 
 ## Contato
 
@@ -71,4 +65,15 @@ Estou cursando Sistemas de Informação na Universidade de São Paulo (USP), atu
   <a href="https://www.instagram.com/pabl0maciel" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+</p>
+
+<div align="center">
+  <h3><b>📍Contador de Visitas</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/pabl0maciel/count.svg"
+    alt="Número de visitantes no perfil"
+  />
 </p>
