@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Pablo!
 
-Estou cursando **Sistemas de Informação na Universidade de São Paulo (USP)**, atualmente no **segundo semestre** 📚. 
+Estou cursando **Sistemas de Informação na Universidade de São Paulo (USP)**, atualmente no **terceiro semestre** 📚. 
 
 No momento, estou interessado na área de **Análise e Ciência de Dados** 📊📈. No primeiro repositório, você pode acessar alguns de meus projetos relacionados ao tema, além de conseguir visualizar **certificados** de cursos concluídos como **Python e Power BI** 📚🏆.
 
