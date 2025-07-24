@@ -66,14 +66,3 @@ No momento, estou interessado na área de **Análise e Ciência de Dados** 📊�
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-<div align="center">
-  <h3><b>📍Contador de Visitas</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/pabl0maciel/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
