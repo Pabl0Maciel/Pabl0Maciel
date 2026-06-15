@@ -24,7 +24,7 @@ pablo = {
     "formação":      "Sistemas de Informação · USP (2027)",
     "foco":          ["Análise de Dados", "Ciência de Dados", "ML"],
     "ferramentas":   ["Python", "SQL", "Power BI", "BigQuery"],
-    "atualmente":    "Estudando ML não-supervisionado + SQL avançado",
+    "atualmente":    "Estagiário de Dados",
     "objetivo":      "Resolver problemas reais com dados 🎯"
 }
 ```
