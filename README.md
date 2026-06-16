@@ -52,10 +52,10 @@ pablo = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Agente Escritor de Currículo</h3>
-      <p>Agente de IA com LLM que gera currículos <strong>ATS-optimized em exatamente 1 página</strong> — adaptando conteúdo à vaga sem inventar habilidades. Refinado em 3 versões de prompt.</p>
-      <p><code>Python</code> <code>LLM</code> <code>python-docx</code></p>
-      <a href="https://github.com/pabl0maciel/Programas-e-Projetos/tree/main/Projetos/Agente%20Escritor%20de%20Curriculo">Ver projeto →</a>
+      <h3>👥 Segmentação de Clientes</h3>
+      <p>Clusterização não supervisionada com <strong>K-Means</strong> para agrupar clientes em 3 segmentos por idade, renda e comportamento de gastos — com padronização via StandardScaler e exportação do resultado em CSV.</p>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>Pandas</code></p>
+      <a href="https://github.com/pabl0maciel/Programas-e-Projetos/tree/main/Projetos/Segmentacao%20de%20Clientes">Ver projeto →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 Análise do Censo Escolar (Fundação Lemann)</h3>
@@ -85,7 +85,12 @@ pablo = {
       <p><code>LLM</code> <code>Python</code> <code>AST</code> <code>Markdown</code></p>
       <a href="https://github.com/pabl0maciel/Programas-e-Projetos/tree/main/Projetos/Python%20Documentation%20Agent%20(PDA)">Ver projeto →</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🤖 Agente Escritor de Currículo</h3>
+      <p>Agente de IA com LLM que gera currículos <strong>ATS-optimized em exatamente 1 página</strong> — adaptando conteúdo à vaga sem inventar habilidades. Refinado em 3 versões de prompt.</p>
+      <p><code>Python</code> <code>LLM</code> <code>python-docx</code></p>
+      <a href="https://github.com/pabl0maciel/Programas-e-Projetos/tree/main/Projetos/Agente%20Escritor%20de%20Curriculo">Ver projeto →</a>
+    </td>
   </tr>
 </table>
 
